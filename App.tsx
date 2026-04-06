@@ -22,7 +22,7 @@ const App: React.FC = () => {
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>🐾 Funny Zoo Fill-In Game 🐾</Text>
+      <Text style={styles.title}> Funny Zoo Fill-In Game </Text>
 
       
       <Image
